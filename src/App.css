@@ -1,0 +1,117 @@
+ * {
+	 margin: 0px; 
+    
+    padding: 0px;
+}
+.link{
+	text-decoration: none;
+	color: white;
+
+}
+li Link{
+	font-size: 16px;
+	color:#edf0f1;
+	text-decoration: none;
+}
+i{
+	margin-right: auto;
+	height:20px;
+}
+.h3{
+	margin-right:720px;
+}
+.header{
+	color:white;
+	text-align: center;
+	background-color: deeppink;
+	display:flex;
+	justify-content: flex-end;
+	align-items: center;
+	padding: 2px 6%;
+
+}
+.nav_links{
+	list-style: none;
+}
+.nav_links li{
+	display: inline-block;
+	padding: 0px 20px;
+}
+.nav_links li Link:hover{
+	text-decoration: none;
+	background-color: gray;
+}
+.container{
+	margin: 60px;
+	padding:auto;
+	width:90%;
+}
+.card {
+	padding: auto;
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+	transition: 0.3s;
+	width: 100%;
+	text-align: center;
+  }
+.round-img{
+	
+		border-radius: 50%;
+		align-items: center;
+		align-content: center;
+		justify-content: center;
+	 
+  }
+  .btn{
+	  border-radius: none;
+	  text-decoration: none;
+	  background-color: black;
+	  height:30px;
+	  color: white;
+	  border:none;
+  }
+  .btn:hover{
+	  color:red;
+  }
+  .container1{
+	  width: 90%;
+	  margin:auto;
+	  padding: 10px;
+  }
+  .form ,input {
+	  width:100%;
+	  height:30px;
+	  margin:5px;
+
+  }
+ .btn1{
+	 color:black;
+	 background-color: lightgray;
+	 text-decoration: none;
+	 margin: 40px 10px 60px;
+	 height:20px;
+	  width:100%;
+	  border: none;
+  }
+  .btn1:hover{
+	  color:grey;
+  }
+
+.btn2{
+	background-color: lightgray;
+	width:20%;
+	color:black;
+	text-decoration:none;
+}
+.btn2:hover{
+	background-color: red;
+	color:white;
+	text-decoration: none;
+}
+.card2 {
+	justify-content: center;
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+	transition: 0.3s;
+	width: 40%;
+	border-radius: 5px;
+  }
+  
