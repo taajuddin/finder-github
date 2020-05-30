@@ -45,13 +45,13 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/taajuddin/github-finder-using-react.git"
+    "url": "https://taajuddin.github.io/github-finder"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/taajuddin/github-finder-using-react/issues"
+    "url": "https://github.com/taajuddin/github-finder/issues"
   },
-  "homepage": "https://github.com/taajuddin/github-finder-using-react#readme"
+  "homepage": "https://github.com/taajuddin/github-finder#readme"
 }
