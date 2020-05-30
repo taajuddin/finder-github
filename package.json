@@ -19,11 +19,13 @@
     "react-scripts": "^3.4.1",
     "start": "^5.1.0"
   },
+  "homepage": "https://taajuddin.hithub.io/github-finder",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "deploy": "gh-pages -d Github-finder",
-    "eject": "react-scripts eject"
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "deploy":"gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -39,19 +41,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
-  "main": "index.js",
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "https://taajuddin.github.io/github-finder"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/taajuddin/github-finder/issues"
-  },
-  "homepage": "https://github.com/taajuddin/github-finder#readme"
+  }
 }
