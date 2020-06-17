@@ -1,7 +1,6 @@
 import React from 'react'
 import UserItem from './UserItem'
 import PropTypes from 'prop-types'
-import 'font-awesome/css/font-awesome.min.css';
 const Users =({users,loading})=>{
 	if(loading){
 		return (

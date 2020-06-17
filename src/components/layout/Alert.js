@@ -1,10 +1,9 @@
 import React from 'react'
-import 'font-awesome/css/font-awesome.min.css';
- const Alert = ({alert}) => {
+ const Alert = ({alert,type}) => {
     return (
         alert !==null &&(
-            <div>
-               <p className="fa fa-exclamation-circle " style={{backgroundColor:'lightGrey'}}>{alert.msg}</p>
+            <div className={`alert alert-${alert.type}`}>
+               <i className="fas fa-info-circle"></i>{alert.msg}
             </div>
         )
     )
