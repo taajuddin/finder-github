@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/finder-github/static/css/main.43f34a28.chunk.css",
+    "main.js": "/finder-github/static/js/main.d9d342ba.chunk.js",
+    "main.js.map": "/finder-github/static/js/main.d9d342ba.chunk.js.map",
+    "runtime-main.js": "/finder-github/static/js/runtime-main.16007679.js",
+    "runtime-main.js.map": "/finder-github/static/js/runtime-main.16007679.js.map",
+    "static/js/2.b6b02351.chunk.js": "/finder-github/static/js/2.b6b02351.chunk.js",
+    "static/js/2.b6b02351.chunk.js.map": "/finder-github/static/js/2.b6b02351.chunk.js.map",
+    "index.html": "/finder-github/index.html",
+    "precache-manifest.8f2dce6cfccfba113954b6c48bd87c98.js": "/finder-github/precache-manifest.8f2dce6cfccfba113954b6c48bd87c98.js",
+    "service-worker.js": "/finder-github/service-worker.js",
+    "static/css/main.43f34a28.chunk.css.map": "/finder-github/static/css/main.43f34a28.chunk.css.map",
+    "static/js/2.b6b02351.chunk.js.LICENSE.txt": "/finder-github/static/js/2.b6b02351.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16007679.js",
+    "static/js/2.b6b02351.chunk.js",
+    "static/css/main.43f34a28.chunk.css",
+    "static/js/main.d9d342ba.chunk.js"
+  ]
+}
